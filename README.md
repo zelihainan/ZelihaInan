@@ -10,3 +10,7 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zelihainan&show_icons=true&locale=en&layout=compact" alt="zelihainan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zelihainan&show_icons=true&locale=en" alt="zelihainan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zelihainan&" alt="zelihainan" /></p>
