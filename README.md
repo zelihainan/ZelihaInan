@@ -1,3 +1,5 @@
+![Visitor Badge](https://komarev.com/ghpvc/?username=zelihainan&style=flat-square)
+
 ##     <img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="Medium Profile" width="30" height="30"/> Latest Blog Posts
 
 <div >
