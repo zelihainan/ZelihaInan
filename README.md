@@ -15,4 +15,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zelihainan&show_icons=true&locale=en" alt="zelihainan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zelihainan&" alt="zelihainan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zelihainan" alt="GitHub Streak" /></p>
+
+![snake gif](https://github.com/zelihainan/zelihainan/blob/output/github-contribution-grid-snake.gif)
