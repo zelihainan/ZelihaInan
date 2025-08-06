@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zelihainan&label=Profile%20views&color=0e75b6&style=flat" alt="zelihainan" /> </p>
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Spring Framework: The Indispensable of the Java World](https://medium.com/@zelihainann/spring-framework-the-indispensable-of-the-java-world-e19205cda41f?source=rss-51fd3b80593------2)
@@ -12,5 +10,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zelihainan&show_icons=true&locale=en&layout=compact" alt="zelihainan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zelihainan&show_icons=true&locale=en" alt="zelihainan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zelihainan&" alt="zelihainan" /></p>
