@@ -13,11 +13,11 @@
 
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zelihainan&show_icons=true&locale=en&layout=compact" alt="zelihainan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zelihainan&show_icons=true&locale=en" alt="zelihainan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zelihainan" alt="GitHub Streak" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zelihainan&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zelihainan&show_icons=true&locale=en" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zelihainan" alt="GitHub Streak" height="150"/>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zelihainan/zelihainan/output/github-contribution-grid-snake-dark.svg">
